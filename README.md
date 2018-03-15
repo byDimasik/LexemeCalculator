@@ -3,4 +3,5 @@
 
 ### Запуск
 Собирать с помощью Maven. pom.xml лежит в корне
-main в App.java
+
+метод main в App.java
